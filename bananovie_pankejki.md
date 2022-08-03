@@ -1,5 +1,5 @@
 # Рецепт: Банановые панкейки
-[оригинал](https://eda.ru/recepty/zavtraki/bananovie-pankejki-35975)
+[оригинал](https://eda.ru/recepty/zavtraki/bananovie-pankejki-35975) 
 
 ### Ингредиенты
 | Название        	| Количество    |
